@@ -1,0 +1,27 @@
+
+KRALAI - BILGI VE KOMUT REHBERI
+================================
+
+KRALAI NEDIR?
+KralAI, Windows bilgisayarinda yerel komutlari calistiran
+bir PowerShell asistanidir. Bilgisayar bilgilerini gosterir,
+bazi kontrolleri yapar ve belirli islemler icin onay ister.
+
+Bu surum, kendi basina egitilmis bir yapay zeka modeli degildir.
+Komutlari anahtar kelimeler ve basit yazim hatasi toleransiyla tanir.
+
+KRAL TESISAT AI BOT
+
+Dosyalar:
+- KralTesisat.bat: Ana programi baslatir.
+- KralTesisat.ps1: Ana asistan.
+- KralBakim.ps1: Bakim ve kisayol kontrolu.
+- BILGI.txt: Bu aciklama.
+
+Butun dosyalari ayni klasorde tut.
+
+Kisayol tarama, hedefi bulunamayan .lnk dosyalarini listeler. Silmeden once onay ister. Uygulamanin kendisini kaldirmaz.
+
+Gecici dosya temizleme de onay ister. Bazi dosyalar kullanildigi icin silinemeyebilir.
+
+Bu arac FPS artisini garanti etmez. Bilmedigin sistem dosyalarini elle silme.
